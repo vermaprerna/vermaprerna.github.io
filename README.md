@@ -1,4 +1,4 @@
-#Personal Portfolio, Frontend Development
+#Personal Portfolio, Frontend Development#
 
 In this project I made a personal portfolio with the help of BootStrap. From this project I learnt to:
 
