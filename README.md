@@ -1,6 +1,6 @@
 # Personal Portfolio, Frontend Development
 
-In this project I made a personal portfolio with the help of BootStrap. From this project I learnt to:
+In this project I made a personal portfolio with the help of HTML, CSS, JavaScript and BootStrap . From this project I learnt to:
 
 1. Add interactivity to web pages with JavaScript.
 2. Describe the basics of Cascading Style Sheets (CSS3).
